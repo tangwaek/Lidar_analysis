@@ -1,1 +1,5 @@
 print("hello world")
+citation()
+citation("tidyverse")
+citation("data.table")
+R.home()
